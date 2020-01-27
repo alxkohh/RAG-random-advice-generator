@@ -5,8 +5,9 @@ Visit us at https://random-advice-generator.herokuapp.com/
 
 ## Tech Stack
 * Front-End
-  * HTML5
-  * Jinja2
+  * HTML
+  * Bootstrap
+  * Jinja
 * Back-end
   * Flask
 * Deployment
