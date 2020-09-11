@@ -1,7 +1,7 @@
 # RAG random-advice-generator
 Receive a piece of advice with just a click of a button.
 
-Visit us at https://random-advice-generator.herokuapp.com/
+Try out the app at https://random-advice-generator.herokuapp.com
 
 ## Tech Stack
 * Frontend
