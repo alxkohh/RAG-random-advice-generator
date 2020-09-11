@@ -4,12 +4,11 @@ Receive a piece of advice with just a click of a button.
 Visit us at https://random-advice-generator.herokuapp.com/
 
 ## Tech Stack
-* Front-End
+* Frontend
   * HTML
   * Bootstrap
-  * Jinja
-* Back-end
-  * Flask
+* Backend
+  * Python (Flask)
 * Deployment
   * Heroku
 
